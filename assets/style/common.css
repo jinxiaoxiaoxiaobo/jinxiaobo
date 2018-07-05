@@ -1,0 +1,37 @@
+/* global-公共样式 */
+body{font-size:12px; font-family:"Microsoft YaHe", arial;color:#333;list-style: none;width: 100%;height: 100%;}
+html,body,div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, 
+strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, 
+tfoot, thead, tr, th, td ,textarea { margin:0; padding:0;  }
+table { border-collapse:collapse; border-spacing:0; }
+h1, h2, h3, h4, h5, h6, th { font-size: 100%; font-weight: normal; }
+button,input,select,textarea{font-size:100%;}
+fieldset,img{border:0;}
+ul, ol { list-style: none; }
+a:link{color: #333;text-decoration: none;}
+a:visited{color: #333;text-decoration: none;}
+a:hover{color: #F22E00;text-decoration:none ;}
+input:focus{outline: none;}
+.fl{float:left;}
+.fr{float:right;}
+/* font -字体样式 */
+.fz12{font-size:12px;}
+.fz14 {font-size:14px;}
+.fz16 {font-size:16px;}
+.fz18 {font-size:18px;}
+.fz20 {font-size:20px;}
+.fz22 {font-size:22px;}
+.fz24 {font-size:24px;}
+.fontbold {font-weight:700;}
+.font400 {font-weight:400;}
+ 
+/* font -字体色彩样式 */
+.color-foo {color:#f00;}
+.color-red {color:#E03336;}
+.color-666 {color: #666;}
+.color-orange{color: orange;}
+/* line-heihgt -文本行间距 */
+.lineheight180 {line-height:180%}
+.lineheight200 {line-height:200%}
+.lineheight220 {line-height:220%}
+.lineheight270 {line-height:260% !important;line-height:260%;}
